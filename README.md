@@ -7,3 +7,4 @@ For investigating random fourier features for image encoding I used Tancik's han
 Here is the experiment: https://github.com/jackld2/AI_Graphics/blob/main/2D%20Positional%20Encoding%20Experiment.ipynb
 
 ## Image Generation
+![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGeneration/morningcow.png?raw=true)
