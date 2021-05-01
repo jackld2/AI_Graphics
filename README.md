@@ -1,6 +1,4 @@
 # AI_Graphics
-Assignments for AI/Graphics
-
 All of my assignments are listed in here, let me know if there are any issues. Thanks for the interesting course!
 
 ## Rendering 
