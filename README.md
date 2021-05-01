@@ -17,3 +17,10 @@ I'm not satisfied with the images that I generated, mainly the cow still looks w
 ![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/overcastcow.png?raw=true)
 ### Sunset with orange/red sky
 ![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/sunsetcow.png?raw=true)
+
+## Shape
+
+## Challenge: Reconstruction of the 2D Shepp Logan Phantom
+I relied heavily on [Tancik's CT experiment code](https://github.com/tancik/fourier-feature-networks/blob/master/Experiments/2d_CT.ipynb) to attempt this challenge. He uses 
+
+## Project: Attempt at a learned sampler for a NeRF representation
