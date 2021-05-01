@@ -9,10 +9,10 @@ Here is the experiment: https://github.com/jackld2/AI_Graphics/blob/main/2D%20Po
 ## Image Generation
 
 # Morning with some fog, sunrise
-![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGeneration/morningcow.png?raw=true)
+![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/morningcow.png?raw=true)
 # Noon on bright day
-![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGeneration/nooncow.jpg.png?raw=true)
+![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/nooncow.png?raw=true)
 # Noon on overcast day
-![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGeneration/overcastcow.png?raw=true)
+![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/overcastcow.png?raw=true)
 # Sunset with orange/red sky
-![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGeneration/sunsetcow.png?raw=true)
+![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/sunsetcow.png?raw=true)
