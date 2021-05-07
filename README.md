@@ -20,8 +20,14 @@ I'm not satisfied with the images that I generated, mainly the cow still looks w
 ![IMG](https://github.com/jackld2/AI_Graphics/blob/main/ImageGen/sunsetcow.png?raw=true)
 
 ## Shape
+I looked around at a bunch of proofs and material that involved seperating hyperplane theorem and or convex cones, but in lecture you said that it was quite easy, so I just ran at it with proof by contradiction. Perhaps I should be more formal with my definitions and elaborate more, it seems too simplistic. Nevertheless, it's here: https://github.com/jackld2/AI_Graphics/blob/main/proof.pdf
+
+## Motion
+-Placeholder-
 
 ## Challenge: Reconstruction of the 2D Shepp Logan Phantom
-I relied heavily on [Tancik's CT experiment code](https://github.com/tancik/fourier-feature-networks/blob/master/Experiments/2d_CT.ipynb) to attempt this challenge. He uses 
+I was looking at [Tancik's CT experiment code](https://github.com/tancik/fourier-feature-networks/blob/master/Experiments/2d_CT.ipynb) and I noticed that he is able to get a pretty good reconstruction, so I wanted to explore his implementation. I used his method of projection 
+Also I would like to add that my previous ML experience is lacking, largely on the implementation side. 
 
 ## Project: Attempt at a learned sampler for a NeRF representation
+Hopefully using Tancik's code from which these assignments were clearly derived doesn't give the impression of low effort. Tancik's code has helped me understand the material better and I picked up some new JAX skills, which I see as a net win as a student.
