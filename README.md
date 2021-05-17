@@ -30,4 +30,5 @@ I was looking at [Tancik's CT experiment code](https://github.com/tancik/fourier
 
 ## Project: Attempt at a learned sampler for a NeRF representation
 [Sampling Project](https://github.com/jackld2/AI_Graphics/blob/main/Sampling_Project.ipynb)
+Again, you might have to click reload a few times for it to embed properly, not sure why this is the case. I recommend opening in Collab if necessary.
 
