@@ -26,7 +26,7 @@ I looked around at a bunch of proofs and material that involved seperating hyper
 -Placeholder-
 
 ## Challenge: Reconstruction of the 2D Shepp Logan Phantom
-I was looking at [Tancik's CT experiment code](https://github.com/tancik/fourier-feature-networks/blob/master/Experiments/2d_CT.ipynb) and I noticed that he is able to get a pretty good reconstruction, so I wanted to explore his implementation. I used his method of projection.
+I was looking at [Tancik's CT experiment code](https://github.com/tancik/fourier-feature-networks/blob/master/Experiments/2d_CT.ipynb) and I noticed that he is able to get a pretty good reconstruction, so I wanted to explore his implementation. I used his method of projection. [Link](https://github.com/jackld2/AI_Graphics/blob/main/CT.ipynb)
 
 ## Project: Attempt at a learned sampler for a NeRF representation
 [Sampling Project](https://github.com/jackld2/AI_Graphics/blob/main/Sampling_Project.ipynb)
