@@ -30,8 +30,11 @@ There are certain inputs for which Rempe et al.’s model do not perform well. T
 The reason I think this could be useful is that motion capture gear tends to be expensive and cumbersome. Quality monocular video tracking would likely have a lot of benefits in motion tracking applications, I have in mind actors. You can see from Rempe et al.’s model that the added physics optimizations take the capture to the next level in terms of usability, but complex motion is unusable.If an actor could do complex movements with a capable tracking system for imitation learning, it might be possible to switch to monocular tracking and perform those movements without issue.
 
 [Contact and Human Dynamics from Monocular Video](https://geometry.stanford.edu/projects/human-dynamics-eccv-2020/)
+
 [Immitation Learning Slides](https://katefvision.github.io/katefSlides/immitation_learning_I_katef.pdf)
+
 [Imitation Learning in Robots](https://link.springer.com/referenceworkentry/10.1007%2F978-1-4419-1428-6_758#:~:text=Definition,skills%20performed%20by%20another%20agent.)
+
 
 ## Challenge: Reconstruction of the 2D Shepp Logan Phantom
 I was looking at [Tancik's CT experiment code](https://github.com/tancik/fourier-feature-networks/blob/master/Experiments/2d_CT.ipynb) and I noticed that he is able to get a pretty good reconstruction, so I wanted to explore his implementation. I used his method of projection. Challege: https://github.com/jackld2/AI_Graphics/blob/main/CT.ipynb
